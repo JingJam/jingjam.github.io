@@ -5,7 +5,7 @@ tagline: 北京欢迎你
 ---
 {% include JB/setup %}
 
-![Imgur](http://i.imgur.com/kei4S2j.jpg)
+[![Imgur](http://i.imgur.com/kei4S2j.jpg)](categories.html#ludum dare 32-ref)
 
 ***
 
