@@ -9,14 +9,14 @@ tagline: 北京欢迎你
 
 ***
 
-All the games that were made are listed [here](http://jingjam.com/archive.html).
+All the games that were made are listed [here](archive.html).
 
-If you want a list of games by event, head over [here](http://jingjam.com/categories.html).
+If you want a list of games by event, head over [here](categories.html).
 
 ##I'm a Game Dev based in Beijing, what should I do?
 
 The easiest way would be to get access to [this repository](https://github.com/JingJam/jingjam.github.io.git).
-Send me via Wechat (my ID is xrosee) or [email](xrosee@live.cn) your [GitHub](http://github.com) ID and I'll add you to the **JingJam** organization.
+Send me via Wechat (my ID is xrosee) your [GitHub](http://github.com) ID and I'll add you to the **JingJam** organization.
 
 ###And writing a post?
 Once you've cloned the repo on your hard drive, point your terminal to the folder you downloaded it (to the root of the folder) and type
