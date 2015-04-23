@@ -5,7 +5,7 @@ tagline: 北京欢迎你
 ---
 {% include JB/setup %}
 
-The last event we participated in was **Ludum Dare 32**. The games created during this weekend can be found [here](http://jingjam.com/categories.html#ludum dare 32-ref). 
+![Imgur](http://i.imgur.com/kei4S2j.jpg)
 
 ***
 
